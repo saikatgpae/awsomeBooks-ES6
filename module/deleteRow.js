@@ -10,7 +10,7 @@ const deleteRow = (e) => {
   /* eslint-disable */
   location.reload();
   /* eslint-enable */
-}
+};
 /* eslint-disable */
 export { deleteRow };
 /* eslint-enable */
